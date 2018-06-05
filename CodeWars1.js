@@ -1,1 +1,4 @@
-//  Submitting empty file so I can resubmit after lecture for full credit
+var replaceDots = function(str) {
+  var strToArray = str.split('.')
+  return strToArray.join('-')
+  }
