@@ -8,4 +8,4 @@ function insertDash(num) {
      }
    }
   return newArray.join('');
-}
+} 
