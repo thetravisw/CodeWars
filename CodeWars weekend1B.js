@@ -12,4 +12,9 @@ function capitalize(s){
     return [a,b];
   };
 
-  //  Tried to do it with regex and a while loop, as I figured that's what Sam wanted.  Apparently doing that is much harder than it sounds.
+  //  Tried to do it with regex and a while loop, (see whiteboard) I figured that's what Sam wanted.  
+  //  However that proved much more difficult than it sounded, so I switched to this, which truthfully
+  //  is how I'd have done it in production code anyways, on account of it being far easier to read.
+
+  //  Also, don't have a whiteboard at home, so my 'whiteboard' was done digitally.
+  //  I figure that's probably frowned on, but acceptable in this case.
